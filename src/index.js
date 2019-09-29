@@ -1,3 +1,4 @@
+import 'whatwg-fetch'; // package to be able to use fetch with IE
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
